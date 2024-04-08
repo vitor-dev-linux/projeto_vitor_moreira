@@ -36,6 +36,10 @@ public:
     void MA2() {
         cout << "Método MA2" << endl;
     }
+
+      int getSoma(int a, int b) {
+        return a + b;
+    }
 };
 
 class B {
